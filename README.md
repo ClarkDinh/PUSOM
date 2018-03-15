@@ -3,4 +3,5 @@
 - This proposes an algorithm named PUSOM for mining periodic high-utility sequential patterns.
 - The code is implemented in C# and will be shared soon.
 - Data and executable file can be downloaded at: http://www.mediafire.com/file/anekk61izh6j3uz/PUSOM.zip
+- A video demo can be downloaded at: http://www.mediafire.com/file/vmvqcv0fa2b34xn/PUSOM%20demo.mp4
 - Reports and comments are very welcomed and can be sent to email: taidinh@jaist.ac.jp
